@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @hadimojak
-- 👀 I’m interested in nodejs , javascript , nosql , html/css
-- 🌱 I’m currently learning nodejs
+- 👋 Hi, I’m @hadimojak (hadi arbabi)
+- 👀 I’m interested in nodejs , javascript , nosql , html/css , mongodb , mongoos , mysql , sequelzie and etc.
+- 🌱 I’m currently learning docker & kubernetes
 - 📫 mail: hadimojak@gmail.com telegram: @hadi_arbabii
 
-<!---
-hadimojak/hadimojak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
