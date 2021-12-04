@@ -1,6 +1,9 @@
-### Hi there
+### Hi there 👋, my name is Hadi Arbabi
+#### nodejs FullStack developer 
+![javaScript FullStack developer](https://github.com/hadimojak/hadimojak/blob/main/readmeBanner.png)
 
-👋 Hi, My Name is hadi arbabi and i'm from iran, and i do content on back-end Development and some Design. I realy enjoy learning new techs and new framework like react ,typeScript ,docker , kubernetes ,oracle db & oracle apex and etc.
+I'm from iran, and i do content on back-end Development and some Design. I realy enjoy learning new techs and new framework like react ,typeScript ,docker , kubernetes ,oracle db & oracle apex and etc.
+
 
 👀 I’m interested in nodejs , javascript , nosql , html/css , mongodb , mongoos , mysql , sequelzie and etc.
 ## Skills and Experience
