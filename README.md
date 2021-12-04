@@ -12,6 +12,7 @@ I'm from iran, and i do content on back-end Development and some Design. I realy
 * nodejs as a back-end programming language
 * mysql(sequelize), oracle
 * mongodb(mongoose)
+* react & typeScript (in progress)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadimojak)](https://github.com/anuraghazra/github-readme-stats)
 
