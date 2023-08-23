@@ -29,3 +29,5 @@ npm-packages: https://www.npmjs.com/~hadimojak
 
 SOCIAL INFORMATION:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/hadi_arbabii)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hadimojak) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hadi_arbabii/)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hadi-arbabi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/hadi-arbabi?trk=profile-badge">Hadi Arbabi</a></div>
+              
