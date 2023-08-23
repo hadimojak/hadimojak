@@ -43,11 +43,12 @@ SOCIAL INFORMATION:
   src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg"
   alt="gmail"
   height="40"
-/>](hadimojak@gmail.com)[<img
+/>](mailto:hadimojak@gmail.com)[<img
   src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"
   alt="gmail"
   height="40"
 />](https://www.npmjs.com/~hadimojak)
+
 
 
 
