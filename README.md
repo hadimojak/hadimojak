@@ -23,8 +23,11 @@ I'm from Iran and do content on back-end Development and some Design. I enjoy le
 
 🌱 I’m currently learning docker & kubernetes & typescript.
 
-📫 Mail: hadimojak@gmail.com telegram: @hadi_arbabii
-LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hadi-arbabi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/hadi-arbabi?trk=profile-badge">Hadi Arbabi</a></div>
+📫 Mail: hadimojak@gmail.com 
+
+telegram: @hadi_arbabii
+
+LinkedIn:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hadi-arbabi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/hadi-arbabi?trk=profile-badge">Hadi Arbabi</a></div>
 
 npm-packages: https://www.npmjs.com/~hadimojak
 
