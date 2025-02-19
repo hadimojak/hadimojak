@@ -21,7 +21,7 @@ I'm from Iran and do content on back-end Development and some Design. I enjoy le
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadimojak)](https://github.com/anuraghazra/github-readme-stats)
 
-🌱 I’m currently learning docker & kubernetes & typescript.
+🌱 I’m currently C# , .net & typescript.
 
 SOCIAL INFORMATION:
 [<img  src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
