@@ -25,6 +25,9 @@ I'm from Iran and do content on back-end Development and some Design. I enjoy le
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadimojak&show_icons=true&theme=dark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=hadimojak)
+
+
 
 
 🌱 I’m currently C# , .net & typescript.
