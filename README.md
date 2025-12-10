@@ -20,6 +20,8 @@ I'm from Iran and do content on back-end Development and some Design. I enjoy le
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadimojak)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadimojak)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
 
 🌱 I’m currently C# , .net & typescript.
 
