@@ -92,29 +92,24 @@ Specialized in **Node.js**, **TypeScript**, and **microservices architectures**,
 [<img  src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
   alt="telegram"
   height="40"
-/>](https://t.me/hadi_arbabii)[<img
+/>](https://t.me/hadimojak)
+[<img
   src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
   alt="github"
   height="40"
-/>](https://github.com/hadimojak) [<img
-  src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
-  alt="instagram"
-  height="40"
-/>](https://www.instagram.com/hadi_arbabii/)[<img
+/>](https://github.com/hadimojak) 
+[<img
   src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg"
   alt="Linkedin"
   height="40"
-/>](https://www.linkedin.com/in/hadi-arbabi/)[<img
+/>](https://www.linkedin.com/in/hadi-arbabi/)
+[<img
   src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg"
   alt="gmail"
   height="40"
-/>](mailto:hadimojak@gmail.com)[<img
+/>](mailto:hadimojak@gmail.com)
+[<img
   src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"
   alt="gmail"
   height="40"
 />](https://www.npmjs.com/~hadimojak)
-
-
-
-
-              
