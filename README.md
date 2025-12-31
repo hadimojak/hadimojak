@@ -39,26 +39,6 @@ Specialized in **Node.js**, **TypeScript**, and **microservices architectures**,
 
 ---
 
-## 💼 Selected Experience
-
-- **Backend Developer – Ebcom**
-  - Designed and scaled microservices for a super-app with **40M+ users**
-  - Built HTTP/2-based services and expanded **20+ microservices**
-
-- **Backend Developer – Tenian**
-  - Developed NestJS microservices
-  - Implemented Redis caching for performance and security
-
-- **Backend Developer – Farnas Industrial Group**
-  - Built Node.js backend systems and internal tools
-  - Published open-source packages on npm
-
-- **Co-Founder – Halishop**
-  - Built and scaled an online retail platform
-  - Focused on backend systems and growth
-
----
-
 ## 📦 Open Source & Projects
 
 - **sequelize-journaling**  
