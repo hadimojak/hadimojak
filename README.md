@@ -36,6 +36,7 @@ Specialized in **Node.js**, **TypeScript**, and **microservices architectures**,
 - Swagger / OpenAPI
 - Postman
 - Linux (Ubuntu)
+- Kafka
 
 ---
 
